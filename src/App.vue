@@ -31,6 +31,7 @@ body {
 }
 
 #app {
+  background: radial-gradient(#333335, #111114);
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
